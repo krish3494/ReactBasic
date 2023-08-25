@@ -1,0 +1,1 @@
+export const API = 'https://64a79d57dca581464b847a1b.mockapi.io/myFirstApi';

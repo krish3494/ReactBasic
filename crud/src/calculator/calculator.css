@@ -1,0 +1,38 @@
+.container{
+    border: 3px solid rgb(123, 130, 130);
+    height: 340px;
+    width: 300px;
+    margin-top: 100px;
+    margin-left: 470px;
+    background-color: rgb(123, 130, 130);
+}
+input{
+    margin-top: 10px;
+    margin-right:px;
+    height: 55px;
+    width: 247px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    background-color: black;
+    color: white;
+}
+
+.table{
+    margin-left:24px;
+   
+}
+
+button{
+    height: 50px;
+    width:60px;
+    background-color: rgb(190, 199, 199);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+}
+
+.cancel,.equal{
+    background-color: rgb(127, 206, 210);
+}
+.del{
+    background-color: rgb(175, 68, 68);
+}
